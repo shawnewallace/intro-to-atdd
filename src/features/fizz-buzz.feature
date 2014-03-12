@@ -21,3 +21,4 @@ Feature:  Fizz Buzz
     | 5       | Buzz    |
     | 1       | 1       | 
     | 15      | FizzBuzz|
+    | 9       | Fizz    |
